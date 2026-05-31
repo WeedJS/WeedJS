@@ -5,7 +5,7 @@ const me = {
   stack: ["JavaScript", "Node.js", "HTML/CSS"],
   status: "coding high 💨",
   motto: "code. chill. repeat.",
-  discord: "@gnarly.messages",
+  discord: "gnarly.messages",
 };
 
 console.log(`
